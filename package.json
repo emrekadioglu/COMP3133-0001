@@ -1,0 +1,15 @@
+{
+  "name": "lab02_101443133_calculator",
+  "version": "1.0.0",
+  "description": "Lab 02 - Calculator with Mocha tests",
+  "main": "app/calculator.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "101443133",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
