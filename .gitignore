@@ -1,3 +1,6 @@
+node_modules/
+*.zip
+
 # Angular app (nested project)
 student-app/node_modules/
 student-app/dist/
